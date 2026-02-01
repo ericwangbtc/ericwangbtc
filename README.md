@@ -18,6 +18,15 @@
 
 <br/>
 
+<!-- Dynamic Programming Quote -->
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&author=Cory%20House&border=true" alt="Dev Quote"/>
+  </a>
+</div>
+
+<br/>
+
 <!-- About Me Section -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
@@ -117,6 +126,21 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ericwangbtc&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Eric's%20Contribution%20Graph" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<!-- 3D Contribution Calendar -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<h2 align="center">🏔️ 3D Contribution Calendar</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
+    <img alt="3D Contribution Calendar" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+  </picture>
 </div>
 
   <br/>
